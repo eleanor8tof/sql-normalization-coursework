@@ -1,5 +1,7 @@
 # SQL & Database Normalization Project (PostgreSQL)
 
+![4NF Decomposition Summary](assets/normalization-4nf.png)
+
 ## Overview
 
 This project demonstrates my understanding of **relational database design**, **normalization up to Fourth Normal Form (4NF)**, and **analytical SQL querying** using PostgreSQL.
